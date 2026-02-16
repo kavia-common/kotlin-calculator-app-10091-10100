@@ -1,3 +1,32 @@
 <resources>
-    <string name="app_name">Sample Declarative Gradle Android App</string>
+    <string name="app_name">Kotlin Calculator</string>
+
+    <string name="title_login">Login</string>
+    <string name="login_subtitle">Sign in to continue</string>
+    <string name="action_login">Login</string>
+    <string name="action_goto_signup">Create account</string>
+
+    <string name="title_signup">Sign Up</string>
+    <string name="signup_subtitle">Create a new account</string>
+    <string name="action_signup">Sign Up</string>
+    <string name="action_back_to_login">Back to Login</string>
+
+    <string name="hint_email">Email</string>
+    <string name="hint_password">Password</string>
+    <string name="hint_confirm_password">Confirm password</string>
+
+    <string name="title_dashboard">Dashboard</string>
+    <string name="dashboard_subtitle">Simple calculator</string>
+
+    <string name="hint_operand_a">Operand A</string>
+    <string name="hint_operand_b">Operand B</string>
+
+    <string name="op_add">+</string>
+    <string name="op_subtract">−</string>
+    <string name="op_multiply">×</string>
+    <string name="op_divide">÷</string>
+
+    <string name="label_result">Result</string>
+    <string name="result_placeholder">—</string>
+    <string name="action_clear">Clear</string>
 </resources>
